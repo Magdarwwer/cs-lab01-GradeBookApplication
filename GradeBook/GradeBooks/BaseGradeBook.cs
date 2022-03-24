@@ -121,7 +121,7 @@ namespace GradeBook.GradeBooks
             }
             return 0;
         }
-
+         
         public virtual void CalculateStatistics()
         {
             var allStudentsPoints = 0d;
